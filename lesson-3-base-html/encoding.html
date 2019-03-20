@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Ширина</title>
+    <style type="text/css">
+        #layer1 {
+            height: 30px;
+            width: 50%;
+            padding: 15px;
+            background: #fc0;
+        }
+
+        #layer2 {
+            width: 60%;
+            height: 50px;
+            background: #cc0;
+        }
+
+        #layer2 {
+            /*попробуй убрать и добавить строку снизу, и посомтри, ка котображается на екране*/
+            position: absolute;
+            padding: 15px;
+        }
+
+        #layer3 {
+            height: 80px;
+            width: 300px;
+            background: #FF69B4;
+            padding: 15px;
+        }
+        .first{
+
+            position: relative;
+            background-color: pink;
+        }
+    </style>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<div class="first">
+    <div id="layer1">text1</div>
+    <div id="layer2"><p>text2</p></div>
+    <div id="layer3">text3</div>
+</div>
+</body>
+</html>

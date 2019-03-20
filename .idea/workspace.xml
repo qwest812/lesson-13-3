@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99bfe2fc-4da4-48ca-9162-2fb1e0dfbe08" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/.idea/laravel-report-mailgenesis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-report-mailgenesis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Controllers/AdminController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/public/svg/403.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/public/svg/404.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/public/svg/500.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/public/svg/503.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/public/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/resources/js/components/ExampleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-report-mailgenesis/webpack.mix.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="encoding.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson-3-base-html/encoding.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson-3-base-html/form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phone-email.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson-3-base-html/phone-email.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="table.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson-3-base-html/table.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="meta, keywords, description, robots.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/курсы/2 html/meta, keywords, description, robots.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3400">
+              <caret line="200" column="35" selection-end-line="208" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>copy</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lesson-3-base-html/form.html" />
+        <option value="$PROJECT_DIR$/lesson-3-base-html/phone-email.html" />
+        <option value="$PROJECT_DIR$/lesson-3-base-html/table.html" />
+        <option value="$USER_HOME$/Desktop/курсы/2 html/meta, keywords, description, robots.html" />
+        <option value="$PROJECT_DIR$/lesson-3-base-html/encoding.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="3226" />
+    <option name="height" value="1746" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cource-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cource-js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cource-js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cource-js" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-3-base-html" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99bfe2fc-4da4-48ca-9162-2fb1e0dfbe08" name="Default" comment="" />
+      <created>1552821677304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552821677304</updated>
+      <workItem from="1552821678578" duration="2300000" />
+      <workItem from="1553014459080" duration="9739000" />
+      <workItem from="1553082799542" duration="1910000" />
+      <workItem from="1553094199269" duration="143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14092000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3192" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09434968" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.20043573" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/encoding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/phone-email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/курсы/2 html/meta, keywords, description, robots.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3400">
+          <caret line="200" column="35" selection-end-line="208" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/encoding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/phone-email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/курсы/2 html/meta, keywords, description, robots.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3400">
+          <caret line="200" column="35" selection-start-line="200" selection-start-column="35" selection-end-line="200" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/encoding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/phone-email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/phone-email.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/курсы/2 html/meta, keywords, description, robots.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3400">
+          <caret line="200" column="35" selection-end-line="208" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3-base-html/encoding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
