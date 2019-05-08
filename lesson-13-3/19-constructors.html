@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function Animal(name) {
+        var elem ="animal";
+        this.name = name;
+        this.canWalk = true;
+    }
+
+    var animal = new Animal("fish");
+    var user = new Animal("Booka");
+
+    console.log(animal);
+
+
+    // var animal = new function() {
+    //     this.name = "Васька";
+    //     this.canWalk = true;
+    // };
+    //     ||
+    var animal = {
+        name: "Васька",
+        canWalk: true
+    }
+</script>
+</body>
+</html>

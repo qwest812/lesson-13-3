@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // function ff(value) {
+    //     console.log("timer: "+value);
+    // }
+    // for (var i=1; i<=5; i++){
+    //     setTimeout(ff(i), 2000);
+    // }
+
+    setTimeout(function () {
+        console.log(333);
+        setTimeout(function () {
+            console.log(444);
+        }, 3000)
+    },2000)
+</script>
+</body>
+</html>

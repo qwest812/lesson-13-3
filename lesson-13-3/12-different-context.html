@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>different context</title>
+</head>
+<body>
+<script>
+    var user = { firstName: "Вася" };
+    var admin = { firstName: "Админ" };
+
+    function func() {
+        alert( this.firstName );
+    }
+
+
+    var obj ={
+
+        date:223,
+    };
+
+
+
+    user.f = func;
+    admin.g = func;
+
+    // this равен объекту перед точкой:
+    user.f(); // Вася
+    admin.g(); // Админ
+    admin['g'](); // Админ (не важно, доступ к объекту через точку или квадратные скобки)
+</script>
+</body>
+</html>

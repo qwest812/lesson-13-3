@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>task</title>
+</head>
+<body>
+<script>
+    var obj = {
+        arr:['a','b','c'],
+        getArray:function () {
+            for (var i=0; i<this.arr.length;i++){
+                console.log(this.arr[i]);
+            }
+        }
+    }
+
+    var test =obj.getArray();
+
+
+
+
+
+    var user = {
+        firstName: "Вася",
+        surname: "Петров",
+    }
+
+    Object.defineProperty(user, "fullName", {
+        get: function() {
+            return this.firstName + ' ' + this.surname;
+        }
+    });
+    console.log(user);
+    // alert(user.fullName); // Вася Петров
+
+
+
+
+
+
+</script>
+</body>
+</html>

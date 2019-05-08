@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>sent object link</title>
+</head>
+<body>
+<script>
+    var user = {
+        name: 'Василий',
+
+        sayHi: function() {
+            showName(this); // передать текущий объект в showName
+        }
+    };
+
+    function showName(namedObj) {
+        alert( namedObj.name );
+    }
+
+    user.sayHi(); // Василий
+</script>
+</body>
+</html>

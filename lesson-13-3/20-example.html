@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="info"></div>
+<script>
+    // Создать конструктор Student и несколько экземляровю. Получить их методы
+    function Student(name){
+        this.name=name;
+        this.inf=function () {
+            return "I am " + this.name;
+        }
+    }
+
+    var start = new Student("Vasia");
+    console.log(start);
+    let test = document.getElementById("info");
+    test.innerText=start.inf();
+</script>
+</body>
+</html>

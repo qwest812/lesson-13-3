@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Context</title>
+</head>
+<body>
+<script>
+    var user = {
+        name: 'Василий',
+
+        sayHi: function() {
+            alert( this.name );
+        }
+    };
+
+    user.sayHi(); // sayHi в контексте user
+</script>
+</body>
+</html>

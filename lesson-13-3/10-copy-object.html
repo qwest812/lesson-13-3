@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>copy-object</title>
+</head>
+<body>
+<script>
+    var user = {
+        name: 'Василий',
+
+        sayHi: function() {
+            alert( user.name ); // приведёт к ошибке
+        }
+    };
+
+    var admin = user;
+    user = null;
+
+    admin.sayHi(); // упс! внутри sayHi обращение по старому имени, ошибка!
+</script>
+</body>
+</html>

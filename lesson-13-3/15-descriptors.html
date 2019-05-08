@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<!--https://learn.javascript.ru/descriptors-getters-setters-->
+<script>
+    "use strict";
+    var user={};
+
+    Object.defineProperty(user,"name",{
+       value: "Iaroslav",
+        writable:false,
+        configurable:false,
+    });
+
+    console.log(user);
+    // user.name="Boo";
+    // console.log(user);
+
+
+
+
+    // Создать объект с масивом данных и методом который выводит этот масив через this
+
+
+</script>
+</body>
+</html>
